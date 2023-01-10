@@ -21,8 +21,8 @@ Display the name of the person who has the largest BMI.
 // }
 
 let person1 = {
-  lastName: "John",
-  firstName: "Sally",
+  lastName: "Mamadou",
+  firstName: "Yvan",
   height: 1.7,
   mass: 80,
   IMC: function () {
@@ -32,8 +32,8 @@ let person1 = {
 };
 
 let person2 = {
-  lastName: "Smith",
-  firstName: "John",
+  lastName: "Regis",
+  firstName: "Ewele",
   height: 1.8,
   mass: 80,
   IMC: function () {
